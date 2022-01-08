@@ -1,6 +1,6 @@
 {
   "name": "@chatpta/redux-store-utility",
-  "version": "0.0.1",
+  "version": "3.0.0",
   "description": "Functions to create redux and thunk actions and reducers",
   "main": "index.js",
   "scripts": {
